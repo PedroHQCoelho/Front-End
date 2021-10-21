@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+h1, h2{
+    color: white;
+}
+
+body {
+    background-color: #141414 !important;
+}
