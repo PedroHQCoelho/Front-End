@@ -2,10 +2,20 @@
     box-sizing: border-box;
 }
 
-h1, h2{
+h2{
     color: white;
 }
 
 body {
-    background-color: #141414 !important;
+    
+    overflow-x: hidden;
+}
+
+a.navbar-brand.text-danger {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.body-color{
+    background:  #141414;
 }
